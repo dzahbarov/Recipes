@@ -1,0 +1,8 @@
+# Project exclude paths
+/task/.gradle/
+/task/build/
+/task/build/classes/java/main/
+/.idea/
+/task/gradle/
+/task/gradlew
+/task/gradlew.bat
